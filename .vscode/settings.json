@@ -1,0 +1,8 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "<another formatter>"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true
+}
